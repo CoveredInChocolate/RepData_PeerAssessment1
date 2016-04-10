@@ -10,23 +10,6 @@ setwd('C:\\R\\Coursera\\5_ReproducibleResearch\\Week1Project\\RepData_PeerAssess
 library(dplyr)
 ```
 
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
 Next, we load the data and create a dataset without any missing values in the column **steps**.
 
 ```r
